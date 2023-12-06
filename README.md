@@ -9,6 +9,8 @@
 ### ReactJS UI With API
 - otw
 
+### Prisma
+
 ### Material UI
 -
 
