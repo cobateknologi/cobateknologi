@@ -40,6 +40,7 @@
 - otw
 
 ## Clerk
+- done sih, tapi masih private ygy
 
 ### NodeJS / ExpressJS / NestJS
 -
