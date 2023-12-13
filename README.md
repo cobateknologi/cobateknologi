@@ -76,4 +76,4 @@
 -
 
 ### React/NextJS with Zustand
--
+- done
