@@ -45,6 +45,8 @@
 ### Implementing Next Auth
 -
 
+### react hook form
+
 
 ## Clerk
 - done sih, tapi masih private ygy
