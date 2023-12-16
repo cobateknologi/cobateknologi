@@ -60,6 +60,8 @@
 ### Astro
 -
 
+### Svelte
+
 ### Vanilla Typescript
 -
 
