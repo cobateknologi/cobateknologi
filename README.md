@@ -1,7 +1,7 @@
 # List teknologi yang pengen di coba 🤠
 
 ### LESS/SASS (SASS aja gak sih)
--
+- otw
 
 ### VUE JS
 - Introvert Club
