@@ -60,6 +60,9 @@
 ### NuxtJS
 -
 
+### vuex
+-
+
 ### Astro
 -
 
