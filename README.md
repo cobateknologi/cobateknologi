@@ -96,3 +96,10 @@
 - done
 - done
 - done
+
+# Fitur yang udah pernah di garap
+- Pagination (so damn hard, but so damn simple)
+- Scroll navbar animation with react or nextjs
+- loading UI
+- search bar dengan useRef()
+- decodeURI untuk menghapus %20 seperti (shingeki%20no menjadi shingeki no)
