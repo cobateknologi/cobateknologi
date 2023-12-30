@@ -18,6 +18,9 @@
 ### Ant Design
 -
 
+### DaisyUI
+- 
+
 ### React/NextJS Fullstack
 -
 
