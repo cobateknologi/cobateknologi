@@ -99,6 +99,7 @@
 - done
 - done
 - done
+- -done :V
 
 # Fitur yang udah pernah di garap
 - Pagination (so damn hard, but so damn simple)
