@@ -106,3 +106,4 @@
 - loading UI
 - search bar dengan useRef()
 - decodeURI untuk menghapus %20 seperti (shingeki%20no menjadi shingeki no)
+- login with github x next auth
