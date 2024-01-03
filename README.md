@@ -89,6 +89,8 @@
 ### HTML/CSS/JavaScript Murni 😢
 -
 
+### Fullstack NextJS
+
 ### React,NextJS,vue,+Tailwind, wareg pisan cuy
 -
 
