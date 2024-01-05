@@ -1,4 +1,4 @@
-# List teknologi yang pengen di coba 🤠
+# List teknologi yang pengen di coba 🤠👍
 
 ### LESS/SASS (SASS aja gak sih)
 - otw skip
