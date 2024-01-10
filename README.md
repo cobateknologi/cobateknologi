@@ -45,6 +45,8 @@
 ### MongoDB
 - otw
 
+# PostgreSQL
+
 ### MERN
 
 ### Implementing Next Auth
