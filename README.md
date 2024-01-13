@@ -30,6 +30,9 @@
 ### React/NextJS with Framermotion
 -
 
+### NextAuth
+- 
+
 ### React/Gatsby
 -
 
