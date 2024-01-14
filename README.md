@@ -90,6 +90,8 @@
 ### React Native
 -
 
+### nextauth v5
+
 
 # List tekonologi yang udah lebih dari cukup / wareg
 
